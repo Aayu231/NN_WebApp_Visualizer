@@ -12,3 +12,4 @@ A peek into how Neural Networks classify images from the MNIST dataset.
 
 ## Look and Feel:
 
+![Example](https://github.com/Aayu231/NN_WebApp_Visualizer/blob/master/One%20Example.JPG)
